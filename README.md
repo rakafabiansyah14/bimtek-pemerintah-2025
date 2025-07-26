@@ -1,12 +1,14 @@
 # Bimtek Pemerintah 2025 – LSMAP
 
-Selamat datang di pusat informasi Bimtek dan Pelatihan ASN, Pemda, dan Lembaga Pemerintah Tahun 2025.
+Portal informasi pelatihan dan bimbingan teknis (Bimtek) nasional bagi ASN, OPD, dan lembaga pemerintah daerah di seluruh Indonesia.
 
-🟢 Fokus pelatihan:
+## Tema Unggulan Tahun 2025:
+- Bimtek SIPD & Keuangan Daerah
+- Bimtek BLUD & SAKIP
+- Bimtek PBJ (Pengadaan Barang/Jasa)
 - Bimtek e-Katalog Versi 6 LKPP
-- Bimtek BLUD & Laporan Kinerja
-- Bimtek Inaproc dan SPSE 2025
-- Bimtek Koperasi Merah Putih, dan banyak lagi
 
-🔗 Info lengkap jadwal dan pendaftaran:
+📌 Pelatihan diselenggarakan oleh LSMAP (Lembaga Studi Manajemen Pemerintahan)
+
+🔗 Kunjungi situs utama:
 👉 [https://www.bimtekpemerintah.info](https://www.bimtekpemerintah.info)
